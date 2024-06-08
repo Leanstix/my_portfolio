@@ -1,8 +1,3 @@
-Sure! Here's the updated README.md file with your contact information:
-
----
-
-# Python Developer Portfolio
 
 Welcome to my Python Developer Portfolio! This repository showcases various projects and code samples that demonstrate my skills and expertise in Python programming. Whether you're a potential employer, collaborator, or fellow developer, I hope you find these projects insightful and inspiring.
 
